@@ -1,6 +1,17 @@
 {
-  "name": "svelte-app",
+  "name": "svelte-hello-world-wc",
   "version": "1.0.0",
+  "description": "Svelte hello world Web Components example.",
+  "main": "./public/build/bundle.js",
+  "author": {
+    "name": "Dez Chuang"
+  },
+  "repository": "DezChuang/svelte-hello-world-wc",
+  "bugs": {
+    "url": "https://github.com/DezChuang/svelte-hello-world-wc/issues"
+  },
+  "homepage": "https://github.com/DezChuang/svelte-hello-world-wc",
+  "license": "MIT",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
