@@ -8,3 +8,16 @@ Svelte hello world Web Components example
 ```shell
 yarn add DezChuang/svelte-hello-world-wc
 ```
+
+## Development
+
+```shell
+yarn install
+yarn dev
+```
+
+## Build
+
+```shell
+yarn build
+```
